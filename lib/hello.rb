@@ -1,4 +1,4 @@
-def hello_t(arg)
+def hello_t(names)
 
 end
 
